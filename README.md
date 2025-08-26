@@ -34,7 +34,7 @@ sulaiman@sendajapan.com
 
 <p align="left">
   <!-- Highlighted Technologies -->
-  <a href="https://laravel.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="45" height="45"/></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="45" height="45"/></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="45" height="45"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/></a>
   <a href="https://developer.android.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="45" height="45"/></a>
